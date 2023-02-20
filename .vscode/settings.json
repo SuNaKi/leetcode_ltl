@@ -3,6 +3,11 @@
         "vector": "cpp",
         "deque": "cpp",
         "queue": "cpp",
-        "xutility": "cpp"
+        "xutility": "cpp",
+        "algorithm": "cpp",
+        "limits": "cpp",
+        "utility": "cpp",
+        "initializer_list": "cpp",
+        "type_traits": "cpp"
     }
 }
