@@ -8,6 +8,9 @@
         "limits": "cpp",
         "utility": "cpp",
         "initializer_list": "cpp",
-        "type_traits": "cpp"
+        "type_traits": "cpp",
+        "list": "cpp",
+        "xhash": "cpp",
+        "xstring": "cpp"
     }
 }
